@@ -6,10 +6,15 @@
 4.u
 
 def test_1():
-  print("TEST_1: part of f4.1")
+  print("TEST_1: part of f4.2")
 
 def test_2():
   print("TEST_2")
 
+
+def test_42():
+  print("TEST_42")
+
 def test_41():
   print("TEST_41")
+
