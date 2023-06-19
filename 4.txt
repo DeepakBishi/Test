@@ -4,3 +4,9 @@
 4.oiuytr678
 4./.,';l,l;[l
 4.u
+
+def test_1():
+  print("TEST_1")
+
+def test_2():
+  print("TEST_2")
